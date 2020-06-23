@@ -10,7 +10,7 @@ Deployed it using surge (frontend) and heroku for backend.
 I had tons of fun and got really confident in using Bootstrap.
 I had to think a lot about the component hiearchy and planning the structure out before I started coding helped alot.
 
-**Link to work:** [Dream Job App](http://dreamjob.demo.ericjho.com/)
+**Link to work:** [DreamJob App](http://dreamjob.demo.ericjho.com/)
 
 
 
@@ -27,4 +27,4 @@ I get caught up in only focusing on finishing the project first and not working 
 where I bust out tests for all the applications that I have been working on! Although Redux was an overkill for such a small project,
 It was definitley a good practice for me.
 
-**Link to work:** [Dream Job App] (http://blogranker.demo.ericjho.com/)
+**Link to work:** [BlogRanker App](http://blogranker.demo.ericjho.com/)

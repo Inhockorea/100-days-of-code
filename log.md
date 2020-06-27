@@ -28,3 +28,34 @@ where I bust out tests for all the applications that I have been working on! Alt
 It was definitley a good practice for me.
 
 **Link to work:** [BlogRanker App](http://blogranker.demo.ericjho.com/)
+
+### Day 3: Wednesday  June 24, 2020 
+
+**Today's Progress**: 
+Completed my Personal Portfolio website//
+Refactored using Bootstrap.
+Added Navbar
+Added Projects
+
+**Studied**:
+JS DS
+JS Fundamentals
+Reviewed React.js
+
+**Link to work:** [Portfolio](http://ericjho.com)
+
+### Day 4: Thursday  June 25, 2020 
+
+**Today's Progress**: 
+Wrote Jest and unit tests for previous projects.
+
+**Studied**:
+React Testing Library
+
+### Day 5: Friday  June 26, 2020 
+
+**Today's Progress**: 
+Started working on a new project incorporating useTransition and useSpring
+
+**Studied**:
+the whole new world of react animation!
